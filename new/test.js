@@ -1,2 +1,1 @@
-console.log("non")
-kaise
+console.log("non");
