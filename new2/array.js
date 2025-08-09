@@ -13,5 +13,5 @@ const myArr = [1, 2, 3, 4, 5, 6];
 // const newArr = myArr.join();
 // console.log(newArr);
 // console.log(typeof(newArr));// string
-//***** slice,spice*****//
-console.log();
+// //***** slice,spice*****//
+// console.log();
